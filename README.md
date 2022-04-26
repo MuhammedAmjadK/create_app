@@ -9,7 +9,7 @@ A new flutter app.
 
 | | |
 |------|-------|
-|<img src="assets\images\login screen.jpg" width="400">|<img src="assets\images\home screen.jpg" width="400">|
+|<img src="assets\images\login screen.png" width="400">|<img src="assets\images\home screen.png" width="400">|
 
 ## 🔌 Plugins
 | Name | Usage |
