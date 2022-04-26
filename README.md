@@ -1,16 +1,19 @@
 # create_app
 
-A new Flutter project.
+A new flutter app.
 
-## Getting Started
+<br>
+<br>
 
-This project is a starting point for a Flutter application.
+## 📸 ScreenShots
 
-A few resources to get you started if this is your first Flutter project:
+| | |
+|------|-------|
+|<img src="assets\images\login screen.jpg" width="400">|<img src="assets\images\home screen.jpg" width="400">|
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔌 Plugins
+| Name | Usage |
+|------|-------|
+|[**http**](https://pub.dev/packages/http)| A composable, multi-platform, Future-based API for HTTP requests.|
+|[**permission_handler**](https://pub.dev/packages/permission_handler)| Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.|
+|[**shimmer**](https://pub.dev/packages/shimmer)| A package provides an easy way to add shimmer effect in Flutter project|
